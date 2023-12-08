@@ -1,0 +1,2 @@
+(!) Petya.A: encrypts files on disk and MBR.
+(!) WannaCry: encrypts files on disk.
