@@ -8,5 +8,5 @@
 
 
 
-
+#Password for all archives: zip
 #Launch trojans at your own risk.
